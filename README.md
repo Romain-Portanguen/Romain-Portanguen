@@ -57,6 +57,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a>
+
+<h3 align="left">Side project :eyes: :</h3>
+
+<p><a href="https://romain-portanguen.github.io/"><img align="left" src="https://romain-portanguen.github.io/img/favicon.png" alt="Carolina Reaper Band" width="30" height="30"/></a><strong>[ - Original creation for my band - ]</strong></p><br>
                                            
 <h3 align="left">Support :heart: :</h3>
 <p><a href="https://www.buymeacoffee.com/romainport"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=romainport&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
