@@ -6,6 +6,9 @@
 <p align="left"> <a href="https://twitter.com/DukeArtik" target="blank"><img src="https://img.shields.io/twitter/follow/DukeArtik?logo=twitter&style=for-the-badge" alt="DukeArtik" /></a> </p>
 
 <img align="right"
+ src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark">
+
+<img align="right"
  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **various development projects in Javascript.**
@@ -15,9 +18,6 @@
 - 📫 How to reach me : **portanguenr@gmail.com**
 
 - ⚡ Fun fact... **I am a drummer in a metal band**
-
-<img align="right"
- src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
