@@ -16,7 +16,8 @@
 
 - ⚡ Fun fact... **I am a drummer in a metal band**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark)
+<img align="right"
+ src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
