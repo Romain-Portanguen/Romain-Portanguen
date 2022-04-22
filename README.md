@@ -58,4 +58,4 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/romain-portanguen"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="romain-portanguen" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/romainport"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="romain-portanguen" /></a></p><br><br>
