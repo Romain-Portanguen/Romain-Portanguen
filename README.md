@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact... **I am a drummer in a metal band**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/DukeArtik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duke_artik" height="30" width="40" /></a>
