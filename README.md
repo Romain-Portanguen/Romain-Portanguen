@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋, I'm Romain !</h1>
-<h3 align="center">Fullstack developer under development 🌱</h3>
+<h1 align="center">Hi, I'm Romain ! <img align="left" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-github-a-web-based-hosting-service-for-version-control-logo-fresh-tal-revivo.png"/><img align="right" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-github-a-web-based-hosting-service-for-version-control-logo-fresh-tal-revivo.png"/></h1>
+<h3 align="center">🌱 [ - Fullstack developer under development - ] 🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romain-portanguen&label=Profile%20views&color=0e75b6&style=flat" alt="romain-portanguen" /> </p>
 
@@ -17,20 +17,20 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 📫 How to reach me : **portanguenr@gmail.com**
 
-- ⚡ Fun fact... **I am a drummer in a metal band**
+- ⚡ Fun fact... **I am a drummer in a metal band :metal:**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :mailbox: :</h3>
 <p align="left">
 <a href="https://twitter.com/DukeArtik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duke_artik" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/romain-portanguen-a9b0771b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Romain Portanguen" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Resources & background information:</h3>
+<h3 align="left">Resources & background information :octocat: :</h3>
 <p align="left">
 <a href="https://dev.to/" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :wrench: :</h3>
 
 <h3 align="left">General</h3>
 
