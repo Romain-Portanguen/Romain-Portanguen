@@ -28,7 +28,7 @@ src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count
 </p>
 
 <img align="right"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" height="340">
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" height="320">
 
 <h3 align="left">Languages and Tools :wrench: :</h3>
 
