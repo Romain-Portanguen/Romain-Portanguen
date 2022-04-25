@@ -61,6 +61,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" hei
 <h3 align="left">Side project :eyes: :</h3>
 
 <p><a href="https://romain-portanguen.github.io/"><img align="left" src="https://romain-portanguen.github.io/img/favicon.png" alt="Carolina Reaper Band" width="30" height="30"/></a><strong>[ - Original creation for my band - ]</strong></p><br>
+
+<p><a href="https://romain-portanguen.github.io/pure"><img align="left" src="https://romain-portanguen.github.io/pure/assets/icons/favicon.png" alt="Romain Portanguen" width="30" height="30"/></a><strong>[ - Single page using a typewriter script - ]</strong></p><br>
                                            
 <h3 align="left">Support :heart: :</h3>
 <p><a href="https://www.buymeacoffee.com/romainport"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=romainport&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
