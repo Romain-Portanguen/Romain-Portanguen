@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/DukeArtik" target="blank"><img src="https://img.shields.io/twitter/follow/DukeArtik?logo=twitter&style=for-the-badge" alt="DukeArtik" /></a> </p>
 
 <img align="right"
-src="https://media.giphy.com/media/bHG5gzKfPESAGr4Dxg/giphy.gif" width="495" height="285" >
+src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark">
  
 - 🔭 I’m currently working on **various development projects in Javascript.**
 
@@ -16,9 +16,6 @@ src="https://media.giphy.com/media/bHG5gzKfPESAGr4Dxg/giphy.gif" width="495" hei
 
 - ⚡ Fun fact... **I am a drummer in a metal band :metal:**
  
-<img align="right"
-src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark">
-
 <h3 align="left">Connect with me :mailbox: :</h3>
 <p align="left">
 <a href="https://twitter.com/DukeArtik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duke_artik" height="30" width="40" /></a>
@@ -31,22 +28,22 @@ src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count
 </p>
 
 <img align="right"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" height="450">
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" height="330">
 
 <h3 align="left">Languages and Tools :wrench: :</h3>
 
-<h3 align="left">General</h3>
+<h3 align="left">General :</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
 
-<h3 align="left">Front</h3>
+<h3 align="left">Frontend :</h3>
 
 <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="60" height="60"/> </a>
 
-<h3 align="left">Backend</h3>
+<h3 align="left">Backend :</h3>
 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60"/> </a>
@@ -55,7 +52,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" hei
 <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="60" height="60"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
 
-<h3 align="left">Others</h3>
+<h3 align="left">Others :</h3>
 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
@@ -68,7 +65,5 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" hei
 <h3 align="left">Support :heart: :</h3>
 <p><a href="https://www.buymeacoffee.com/romainport"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=romainport&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
 
-<!--<img align="left"
-src="https://media.giphy.com/media/z6UkWQkYCaHnKNjTlO/giphy.gif">-->
-<img align="right"
-src="https://media.giphy.com/media/FBplqkvC8k5wGCzaiC/giphy.gif" width="1000" height="350">
+<img align="left"
+src="https://media.giphy.com/media/ZOoQi3o3VtlM2P9M29/giphy.gif" width="480" height="300" >
