@@ -6,10 +6,7 @@
 <p align="left"> <a href="https://twitter.com/DukeArtik" target="blank"><img src="https://img.shields.io/twitter/follow/DukeArtik?logo=twitter&style=for-the-badge" alt="DukeArtik" /></a> </p>
 
 <img align="right"
- src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark">
-
-<img align="right"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+src="https://media.giphy.com/media/bHG5gzKfPESAGr4Dxg/giphy.gif" width="495" height="285" >
  
 - 🔭 I’m currently working on **various development projects in Javascript.**
 
@@ -18,6 +15,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 📫 How to reach me : **portanguenr@gmail.com**
 
 - ⚡ Fun fact... **I am a drummer in a metal band :metal:**
+ 
+<img align="right"
+src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark">
 
 <h3 align="left">Connect with me :mailbox: :</h3>
 <p align="left">
@@ -29,6 +29,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left">
 <a href="https://dev.to/" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
 </p>
+
+<img align="right"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" height="450">
 
 <h3 align="left">Languages and Tools :wrench: :</h3>
 
@@ -65,5 +68,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="left">Support :heart: :</h3>
 <p><a href="https://www.buymeacoffee.com/romainport"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=romainport&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
 
-<img align="left"
-src="https://media.giphy.com/media/z6UkWQkYCaHnKNjTlO/giphy.gif">
+<!--<img align="left"
+src="https://media.giphy.com/media/z6UkWQkYCaHnKNjTlO/giphy.gif">-->
+<img align="right"
+src="https://media.giphy.com/media/FBplqkvC8k5wGCzaiC/giphy.gif" width="1000" height="350">
