@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Romain ! <img align="left" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-github-a-web-based-hosting-service-for-version-control-logo-fresh-tal-revivo.png"/><img align="right" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-github-a-web-based-hosting-service-for-version-control-logo-fresh-tal-revivo.png"/></h1>
+<h1 align="center">Hi, I'm Romain ! <img align="left" src="https://img.icons8.com/nolan/70/github.png"/><img align="right" src="https://img.icons8.com/nolan/70/github.png"/></h1>
 <h3 align="center">🌱 [ - Fullstack developer under development - ] 🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romain-portnguen&color=yellow&style=for-the-badge" alt="romain-portanguen" /> </p>
