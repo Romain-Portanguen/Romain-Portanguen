@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Romain ! <img align="left" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-github-a-web-based-hosting-service-for-version-control-logo-fresh-tal-revivo.png"/><img align="right" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-github-a-web-based-hosting-service-for-version-control-logo-fresh-tal-revivo.png"/></h1>
 <h3 align="center">🌱 [ - Fullstack developer under development - ] 🌱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romain-portanguen&label=Profile%20views&color=0e75b6&style=flat" alt="romain-portanguen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romain-portnguen&color=yellow&style=for-the-badge" alt="romain-portanguen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/DukeArtik" target="blank"><img src="https://img.shields.io/twitter/follow/DukeArtik?logo=twitter&style=for-the-badge" alt="DukeArtik" /></a> </p>
 
@@ -28,7 +28,7 @@ src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count
 </p>
 
 <img align="right"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" height="330">
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" height="340">
 
 <h3 align="left">Languages and Tools :wrench: :</h3>
 
@@ -66,4 +66,4 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" hei
 <p><a href="https://www.buymeacoffee.com/romainport"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=romainport&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
 
 <img align="left"
-src="https://media.giphy.com/media/ZOoQi3o3VtlM2P9M29/giphy.gif" width="480" height="300" >
+src="https://media.giphy.com/media/ZOoQi3o3VtlM2P9M29/giphy.gif" width="480" height="300">
