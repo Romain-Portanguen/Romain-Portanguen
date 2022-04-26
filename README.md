@@ -33,7 +33,7 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 Supply chain manager specialised in E-commerce(Sep,2019 - Feb,2022)<br>
+- 👷 Supply chain manager specialised in E-commerce (Sep,2019 - Feb,2022)<br>
 - 🔬 Student at O'Clock School, 2022 (Learning web development and software design )<br>
 
 </div>
@@ -42,6 +42,7 @@
 <h3><b><samp>Skills and Languages:</samp></b></h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-013243?style=flat-square&logo=Javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-013243?style=flat-square&logo=Typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 [MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
