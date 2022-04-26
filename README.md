@@ -1,12 +1,22 @@
-<h1 align="center">Hi, I'm Romain ! <img align="left" src="https://img.icons8.com/nolan/70/github.png"/><img align="right" src="https://img.icons8.com/nolan/70/github.png"/></h1>
-<h3 align="center">🌱 [ - Fullstack developer under development - ] 🌱</h3>
+# Hey Everyone! I'm [Romain Portanguen](https://github.com/Romain-Portanguen) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="50px"><br><br>
 
+<a href="https://twitter.com/DukeArtik">
+  <img align="left" alt="DukaArtik Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/romain-portanguen-a9b0771b7">
+  <img align="left" alt="Romain Portanguen Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Romain-Portanguen">
+  <img align="left" alt="Romain Portanguen Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romain-portnguen&color=yellow&style=for-the-badge" alt="romain-portanguen" /> </p>
+<br><br>
 
-<p align="left"> <a href="https://twitter.com/DukeArtik" target="blank"><img src="https://img.shields.io/twitter/follow/DukeArtik?logo=twitter&style=for-the-badge" alt="DukeArtik" /></a> </p>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-<img align="right"
-src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark">
+## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 - 🔭 I’m currently working on **various development projects in Javascript.**
 
@@ -69,3 +79,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="495" hei
 
 <img align="left"
 src="https://media.giphy.com/media/ZOoQi3o3VtlM2P9M29/giphy.gif" width="480" height="300">
+
+<img align="right"
+src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=github_dark">
