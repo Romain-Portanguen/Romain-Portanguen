@@ -18,7 +18,7 @@
 ## <p align="center"><h3 align="center"><samp> An Fullstack Developer specialised in Javascript technology <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </samp></h3></p>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="30%"/>
+<img align="right" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/header.gif" width="30%"/>
   <br><br>
 
 - 🔭 I’m currently working on **various development projects in Javascript.**
