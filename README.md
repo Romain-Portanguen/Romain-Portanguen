@@ -16,17 +16,18 @@
 ![](https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/header.png)
 
 ## <p align="center"><h3 align="center"><samp> An Fullstack Developer specialised in Javascript technology <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </samp></h3></p>
-
+   <br>
+   
 <div>
-<img align="right" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/header.gif" width="30%"/>
-  <br><br>
+<img align="right" src="https://media.giphy.com/media/oKLNQQ6OIeSU8/giphy.gif" width="40%"/>
+  <br>
 
 - 🔭 I’m currently working on **various development projects in Javascript.**
 - 🌱 I’m currently learning **all technologies related to Javascript.**
 - 📫 How to reach me : **portanguenr@gmail.com**
 - ⚡ Fun fact... **I am a drummer in a metal band :metal:**
   
-  <br><br>
+  <br>
 </div>
 
 ##
