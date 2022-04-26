@@ -1,5 +1,7 @@
 # Hey Everyone! I'm [Romain Portanguen](https://github.com/Romain-Portanguen) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="50px"><br><br>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=romain-portnguen&color=yellow&style=for-the-badge" alt="romain-portanguen"/></p>
+
 <a href="https://twitter.com/DukeArtik">
   <img align="left" alt="DukaArtik Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
@@ -9,22 +11,58 @@
 <a href="https://github.com/Romain-Portanguen">
   <img align="left" alt="Romain Portanguen Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romain-portnguen&color=yellow&style=for-the-badge" alt="romain-portanguen" /> </p>
 <br><br>
 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/header.png)
 
-## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
+## <p align="center"><h3 align="center"><samp> An Fullstack Developer specialised in Javascript technology <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </samp></h3></p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="30%"/>
+  <br><br>
+
 - 🔭 I’m currently working on **various development projects in Javascript.**
-
 - 🌱 I’m currently learning **all technologies related to Javascript.**
-
 - 📫 How to reach me : **portanguenr@gmail.com**
-
 - ⚡ Fun fact... **I am a drummer in a metal band :metal:**
+  
+  <br><br>
+</div>
+
+##
+
+<div>
+<h3><b><samp>Experiences:</samp></b></h3>
+- 👷 Supply chain manager specialised in E-commerce(Sep,2019 - Feb,2022)<br>
+- 🔬 Student at O'Clock School, 2022 (Learning web development and software design )<br>
+
+</div>
+
+##
+<h3><b><samp>Skills and Languages:</samp></b></h3>
+
+![Javascript](https://img.shields.io/badge/Javascript-013243?style=flat-square&logo=Javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+[MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+
+<span>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
+  </span>
+    
+##
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 <h3 align="left">Connect with me :mailbox: :</h3>
 <p align="left">
