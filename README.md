@@ -34,15 +34,6 @@
 
 <hr>
 
-<div>
-<h3><b><samp>Experiences:</samp></b></h3>
-- 👷 Supply chain manager specialised in E-commerce (Sep,2019 - Feb,2022)<br>
-- 🔬 Student at O'Clock School, 2022 (Learning web development and software design )<br>
-
-</div>
-
-<hr>
-
 <h3><b><samp>Skills and Languages:</samp></b></h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-013243?style=flat-square&logo=Javascript&logoColor=yellow)
