@@ -114,10 +114,6 @@
   <img align="left" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-github-with-cat-logo-an-online-community-for-software-development-50.png" alt="Carolina Reaper Band" width="30" height="30"/>
 </a><strong><p>[ - Original creation for my band - ]</strong></p><br>
 
-<a href="https://romain-portanguen.github.io/Pure/">
-  <img align="left" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-github-with-cat-logo-an-online-community-for-software-development-50.png" alt="Romain Portanguen" width="30" height="30"/>
-</a><strong><p>[ - Single page using a typewriter script - ]</strong></p><br>
-
 <a href="https://romain-portanguen.github.io/Weather_App">
   <img align="left" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-github-with-cat-logo-an-online-community-for-software-development-50.png" alt="Romain Portanguen" width="30" height="30"/>
 </a><strong><p>[ - Weather app. widget in Js. - ]</strong></p><br>
