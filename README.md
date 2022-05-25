@@ -96,8 +96,8 @@
 <a href="https://github.com/Romain-Portanguen/Romain-Portanguen.github.io">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Romain-Portanguen&repo=Romain-Portanguen.github.io" />
 </a>
-<a href="https://github.com/Romain-Portanguen/Weather_App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Romain-Portanguen&repo=Weather_App" />
+<a href="https://github.com/Romain-Portanguen/Resume_App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Romain-Portanguen&repo=Resume_App" />
 </a>
 </span>
   
