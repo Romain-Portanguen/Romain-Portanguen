@@ -110,13 +110,13 @@
 <br><br>
 
 <span>
+<a href="https://romain-portanguen.github.io/Resume_App/">
+  <img align="left" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-github-with-cat-logo-an-online-community-for-software-development-50.png" alt="Romain Portanguen" width="30" height="30"/>
+</a><strong><p>[ - Personnal Website & Resume - ]</strong></p><br>
+  
 <a href="https://romain-portanguen.github.io/">
   <img align="left" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-github-with-cat-logo-an-online-community-for-software-development-50.png" alt="Carolina Reaper Band" width="30" height="30"/>
 </a><strong><p>[ - Original creation for my band - ]</strong></p><br>
-
-<a href="https://romain-portanguen.github.io/Weather_App">
-  <img align="left" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-github-with-cat-logo-an-online-community-for-software-development-50.png" alt="Romain Portanguen" width="30" height="30"/>
-</a><strong><p>[ - Weather app. widget in Js. - ]</strong></p><br>
 </span>
 
 <h3><b><samp>Support:</samp></b></h3>
