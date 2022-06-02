@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Romain Portanguen](https://github.com/Romain-Portanguen) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="50px"><br><br>
+# Hey Everyone! I'm [Romain Portanguen](https://github.com/Romain-Portanguen)<br><br>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=romain-portnguen&color=yellow&style=for-the-badge" alt="romain-portanguen"/></p>
 
