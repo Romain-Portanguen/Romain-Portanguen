@@ -42,7 +42,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
@@ -51,13 +50,12 @@
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-typescript-50.png" alt ="Typescript"/>  
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-html-5-50.png" alt="HTML5"/>
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-css3-50.png" alt="CSS3"/>
-<img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-react-native-50.png" alt="React Native"/>  
+<img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-react-native-50.png" alt="React"/>  
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-node-js-50.png" alt="Node Js"/>
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-npm-50.png" alt="NPM"/>  
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-postgresql-50.png" alt="Postgresql"/>  
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-logo-de-mysql-50.png" alt="Mysql"/>
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-logo-php-50.png" alt="PHP"/>
-<img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-python-50.png" alt="Python"/>
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-docker-50.png" alt="Docker"/>
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-bash-50.png" alt="Bash"/>
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-tarte-aux-framboises-50.png" alt="Raspberry Pi"/>
@@ -93,8 +91,8 @@
 <h3><b><samp>My Repositories:</samp></b></h3>
 
 <span>
-<a href="https://github.com/Romain-Portanguen/Romain-Portanguen.github.io">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Romain-Portanguen&repo=Romain-Portanguen.github.io" />
+<a href="https://github.com/Romain-Portanguen/Dynamic_Search">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Romain-Portanguen&repo=Dynamic_Search" />
 </a>
 <a href="https://github.com/Romain-Portanguen/Weather_App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Romain-Portanguen&repo=Weather_App" />
@@ -104,19 +102,15 @@
 <hr>
 
 <div>
-<h3><b><samp>Side project:</samp></b></h3>
+<h3><b><samp>Side Project:</samp></b></h3>
   
 <img align="right" src="https://media.giphy.com/media/ZYZEFjLzOV3fq/giphy.gif" width="40%"/>
 <br><br>
 
 <span>
-<a href="https://romain-portanguen.github.io/Resume_App/">
-  <img align="left" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-github-with-cat-logo-an-online-community-for-software-development-50.png" alt="Romain Portanguen" width="30" height="30"/>
-</a><strong><p>[ - Personnal Website & Resume - ]</strong></p><br>
-  
-<a href="https://romain-portanguen.github.io/">
-  <img align="left" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-github-with-cat-logo-an-online-community-for-software-development-50.png" alt="Carolina Reaper Band" width="30" height="30"/>
-</a><strong><p>[ - Original creation for my band - ]</strong></p><br>
+<a href="https://romain-portanguen.com/">
+  <img align="left" src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-github-with-cat-logo-an-online-community-for-software-development-50.png" alt="Romain Portanguen" width="30" height="30"/><strong><p>[ - Personnal Website & Resume - ]</strong></p>
+</a><br>
 </span>
 
 <h3><b><samp>Support:</samp></b></h3>
