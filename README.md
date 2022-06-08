@@ -128,7 +128,6 @@
   <a href="https://github.com/Romain-Portanguen"><span>
     <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romain-Portanguen&theme=radical" />
-    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Romain-Portanguen&layout=compact&langs_count=10&theme=radical"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romain-Portanguen&theme=dracula" />
     </span></a>
 </p>
