@@ -37,7 +37,6 @@
 <h3><b><samp>Skills and Languages:</samp></b></h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-013243?style=flat-square&logo=Javascript&logoColor=yellow)
-![Typescript](https://img.shields.io/badge/Typescript-3776AB?style=flat-square&logo=Typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -47,7 +46,6 @@
 
 <span>
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-javascript-50.png" alt="Javascript"/>
-<img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-typescript-50.png" alt ="Typescript"/>  
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-html-5-50.png" alt="HTML5"/>
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-css3-50.png" alt="CSS3"/>
 <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-react-native-50.png" alt="React"/>  
