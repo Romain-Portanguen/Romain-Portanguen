@@ -21,7 +21,7 @@
 <br>
    
 <div>
-<img align="right" src="https://media.giphy.com/media/oKLNQQ6OIeSU8/giphy.gif" width="40%"/>
+<img align="right" src="https://media.giphy.com/media/oKLNQQ6OIeSU8/giphy.gif" width="60%"/>
 <br><br>
 
 - 🔭 I’m currently working on **various development projects in Javascript.**
@@ -66,7 +66,7 @@
   
 <h3><b><samp>Tools and Platform:</samp></b></h3>
   
-<img align="right" src="https://media.giphy.com/media/bL6i8KRLAcSsw/giphy.gif" width="40%"/>
+<img align="right" src="https://media.giphy.com/media/bL6i8KRLAcSsw/giphy.gif" width="60%"/>
 <br><br><br>
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
@@ -102,7 +102,7 @@
 <div>
 <h3><b><samp>Side Project:</samp></b></h3>
   
-<img align="right" src="https://media.giphy.com/media/ZYZEFjLzOV3fq/giphy.gif" width="40%"/>
+<img align="right" src="https://media.giphy.com/media/ZYZEFjLzOV3fq/giphy.gif" width="60%"/>
 <br><br>
 
 <span>
