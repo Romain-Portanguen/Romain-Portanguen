@@ -71,15 +71,15 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 
 <div>
 <h3><b><samp>Career:</samp></b></h3>
+
+<p>[- Fullstack developer at MerciApp since August 2022. -]</p>
   
 <span>
   <a href="https://www.merci-app.com/">
-    <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwzlQguqwlm-v6JuoQDiASeAHfLNAZWrEZjvlzbObM&s" alt="MerciApp" width="457" height="110"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwzlQguqwlm-v6JuoQDiASeAHfLNAZWrEZjvlzbObM&s" alt="MerciApp" width="152" height="36"/>
   </a>
   <br>
 </span>
-
-<p>[- Fullstack developer at MerciApp since August 2022. -]</p>
 
 <h3><b><samp>Support:</samp></b></h3>
 <p>
