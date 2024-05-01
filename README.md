@@ -1,16 +1,5 @@
 # Hey Everyone! I'm [Romain Portanguen](https://github.com/Romain-Portanguen)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=romain-portnguen&color=yellow&style=for-the-badge" alt="romain-portanguen"/></p>
-
-<a href="https://www.linkedin.com/in/romain-portanguen-a9b0771b7">
-  <img align="left" alt="Romain Portanguen Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/DukeArtik">
-  <img align="left" alt="DukaArtik Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-
-<br><br>
-
 ![](https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/header.png)
 
 <hr>
@@ -31,26 +20,29 @@ My approach to work is founded on the diligent application of AGILE/SCRUM method
 
 Furthermore, I strive to rigorously apply all the principles of the Clean Code throughout my work. My dedication to code quality is central to my priorities, aiming to ensure code readability, maintainability, and performance. This approach significantly contributes to the technical excellence of every project I contribute to.
 
-📫 How to reach me: **portanguenr@gmail.com**
+📫 How to reach me:
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:portanguenr@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/romain-portanguen-a9b0771b7/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/DukeArtik)](https://twitter.com/https://twitter.com/DukeArtik)
+[![Github](https://img.shields.io/github/followers/Romain-Portanguen?label=Follow&style=social)](https://github.com/Romain-Portanguen)
+
 </div>
 
 <hr>
 
 <h3><b><samp>Skills and Languages:</samp></b></h3>
 
-<span>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-typescript-50.png" alt="Typescript"/>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-python-50.png" alt="Python"/>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-react-native-50.png" alt="React"/>  
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-node-js-50.png" alt="Node Js"/>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-npm-50.png" alt="npm"/>  
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-postgresql-50.png" alt="Postgresql"/>  
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-logo-de-mysql-50.png" alt="Mysql"/>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-docker-50.png" alt="Docker"/>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-bash-50.png" alt="Bash"/>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-tarte-aux-framboises-50.png" alt="Raspberry Pi"/>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-arduino-50.png" alt="Arduino"/>
-</span>
+![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=plastic&logo=Typescript&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=plastic&logo=Javascript&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-React-05122A?style=plastic&logo=React&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Nodejs-05122A?style=plastic&logo=Nodejs&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=Docker&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=plastic&logo=PostgreSQL&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-yarn-05122A?style=plastic&logo=yarn&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-npm-05122A?style=plastic&logo=npm&color=2B343B)
 
 <hr>
 
@@ -58,11 +50,11 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
   
 <h3><b><samp>Tools and Platform:</samp></b></h3>
   
-<span>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/visual-studio-code.svg" alt="Visual Studio Code" width="50"/>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-git-50.png" alt="Git"/>
-  <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-github-50.png" alt="Github"/>
-</span>
+![Bootstrap](https://img.shields.io/badge/-Gitlab-05122A?style=plastic&logo=Gitlab&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=plastic&logo=Github&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=Git&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Bash-05122A?style=plastic&logo=Bash&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-VisualStudioCode-05122A?style=plastic&logo=VisualStudioCode&color=2B343B)
   
 </div>
 
@@ -82,6 +74,7 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 </span>
 
 <h3><b><samp>Support:</samp></b></h3>
+
 <p>
   <a href="https://www.buymeacoffee.com/romainport"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=romainport&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </p>
@@ -97,7 +90,7 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
     <div>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romain-Portanguen&theme=tokyonight" />
     </div>
-    <div style="display: inline-block;">
+    <div>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romain-Portanguen&theme=tokyonight" />
     </div>
   </a>
