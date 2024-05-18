@@ -63,7 +63,7 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 
 <div>
   
-<h3><b><samp>OS | operating systems ~</samp></b></h3>
+<h3><b><samp>Operating systems ~</samp></b></h3>
 
 ![Bootstrap](https://img.shields.io/badge/-MacOs-05122A?style=plastic&logo=MacOs&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=Linux&color=2B343B)
