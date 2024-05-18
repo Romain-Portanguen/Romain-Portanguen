@@ -20,7 +20,7 @@ My approach to work is founded on the diligent application of AGILE/SCRUM method
 
 Furthermore, I strive to rigorously apply all the principles of the Clean Code throughout my work. My dedication to code quality is central to my priorities, aiming to ensure code readability, maintainability, and performance. This approach significantly contributes to the technical excellence of every project I contribute to.
 
-📫 How to reach me:
+📫 How to reach me ~
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:portanguenr@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/romain-portanguen-a9b0771b7/)
@@ -31,14 +31,13 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 
 <hr>
 
-<h3><b><samp>Skills and Languages:</samp></b></h3>
+<h3><b><samp>Skills | Languages ~</samp></b></h3>
 
 ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=plastic&logo=Typescript&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=plastic&logo=Javascript&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=plastic&logo=React&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Nodejs-05122A?style=plastic&logo=Nodejs&color=2B343B)
-![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=Docker&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=plastic&logo=PostgreSQL&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-yarn-05122A?style=plastic&logo=yarn&color=2B343B)
@@ -48,13 +47,29 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 
 <div>
   
-<h3><b><samp>Tools and Platform:</samp></b></h3>
+<h3><b><samp>Tools | Platforms ~</samp></b></h3>
   
 ![Bootstrap](https://img.shields.io/badge/-Gitlab-05122A?style=plastic&logo=Gitlab&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=plastic&logo=Github&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=Git&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Bash-05122A?style=plastic&logo=Bash&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-VisualStudioCode-05122A?style=plastic&logo=VisualStudioCode&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-VirtualBox-05122A?style=plastic&logo=VirtualBox&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=Docker&color=2B343B)
+  
+</div>
+
+<hr>
+
+<div>
+  
+<h3><b><samp>OS | operating systems ~</samp></b></h3>
+
+![Bootstrap](https://img.shields.io/badge/-MacOs-05122A?style=plastic&logo=MacOs&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=Linux&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Debian-05122A?style=plastic&logo=Debian&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Windows-05122A?style=plastic&logo=Windows&color=2B343B)
   
 </div>
 
@@ -62,7 +77,7 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
   
 
 <div>
-<h3><b><samp>Career:</samp></b></h3>
+<h3><b><samp>Career ~</samp></b></h3>
 
 <p>[- Fullstack developer at MerciApp since August 2022. -]</p>
   
@@ -73,7 +88,7 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
   <br>
 </span>
 
-<h3><b><samp>Support:</samp></b></h3>
+<h3><b><samp>Support ~</samp></b></h3>
 
 <p>
   <a href="https://www.buymeacoffee.com/romainport"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=romainport&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
@@ -83,7 +98,7 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 
 <hr>
 
-### Github Stats:
+### Github Stats ~
   
 <div align="center">
   <a href="https://github.com/Romain-Portanguen">
