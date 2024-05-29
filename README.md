@@ -25,7 +25,10 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:portanguenr@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/romain-portanguen-a9b0771b7/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/DukeArtik)](https://twitter.com/https://twitter.com/DukeArtik)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?labelColor=2b343b&logo=Gitlab&color=2B343B)](https://gitlab.com/romain.portanguen)
 [![Github](https://img.shields.io/github/followers/Romain-Portanguen?label=Follow&style=social)](https://github.com/Romain-Portanguen)
+
+
 
 </div>
 
