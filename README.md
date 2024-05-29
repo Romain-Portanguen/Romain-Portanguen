@@ -57,6 +57,7 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=Git&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Bash-05122A?style=plastic&logo=Bash&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-VisualStudioCode-05122A?style=plastic&logo=VisualStudioCode&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Webstorm-05122A?style=plastic&logo=Webstorm&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-VirtualBox-05122A?style=plastic&logo=VirtualBox&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=Docker&color=2B343B)
   
@@ -72,6 +73,7 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=Linux&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Debian-05122A?style=plastic&logo=Debian&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-ArchLinux-05122A?style=plastic&logo=ArchLinux&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Windows-05122A?style=plastic&logo=Windows&color=2B343B)
   
 </div>
