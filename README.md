@@ -117,3 +117,11 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 </div>
   
 <hr>
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/Romain-Portanguen/Romain-Portanguen/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<hr>
