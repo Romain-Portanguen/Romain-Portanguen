@@ -86,12 +86,11 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 
 <p>[- Fullstack developer at MerciApp since August 2022. -]</p>
 
-<span>
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.merci-app.com/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwzlQguqwlm-v6JuoQDiASeAHfLNAZWrEZjvlzbObM&s" alt="MerciApp" width="152" height="36" />
+    <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/0ffb2c1a9fed4d1d7987d360b37588dc25fe1654/images/merci_app_logo.png" alt="MerciApp" width="150px" height="150px" style="border-radius: 50%;" />
   </a>
-  <br>
-</span>
+</div>
 
 <h3><b><samp>Support ~</samp></b></h3>
 
