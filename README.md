@@ -88,7 +88,7 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 
 <span>
   <a href="https://www.merci-app.com/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwzlQguqwlm-v6JuoQDiASeAHfLNAZWrEZjvlzbObM&s" alt="MerciApp" width="152" height="36"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwzlQguqwlm-v6JuoQDiASeAHfLNAZWrEZjvlzbObM&s" alt="MerciApp" width="152" height="36" />
   </a>
   <br>
 </span>
@@ -104,18 +104,26 @@ Furthermore, I strive to rigorously apply all the principles of the Clean Code t
 <hr>
 
 ### Github Stats ~
-  
-<div align="center">
-  <a href="https://github.com/Romain-Portanguen">
-    <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romain-Portanguen&theme=tokyonight" />
-    </div>
-    <div>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romain-Portanguen&theme=tokyonight" />
-    </div>
-  </a>
-</div>
-  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romain-Portanguen&theme=tokyonight" alt="GitHub Streak Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romain-Portanguen&theme=tokyonight" alt="GitHub Profile Details" />
+    </td>
+  </tr>
+  <tr colspan="2">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Romain-Portanguen&show_icons=true&theme=tokyonight&rank_icon=github&hide=commits,contribs" alt="Github Stats Card" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romain-Portanguen&layout=compact&theme=tokyonight&hide=html,css" alt="Github Top Language" height= "132px" />
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 <div align="center">
