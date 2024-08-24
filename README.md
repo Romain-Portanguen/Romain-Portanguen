@@ -4,7 +4,7 @@
 
 <hr>
 
-<h3 align="center"><samp> Full Stack Software Development Engineer - MerciApp <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-typescript-50.png"/> </samp></h3>
+<h3 align="center"><samp> Software Engineer - MerciApp <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-typescript-50.png"/> </samp></h3>
 
 <br>
 
