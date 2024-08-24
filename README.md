@@ -4,21 +4,30 @@
 
 <hr>
 
-<h3 align="center"><samp> Software Engineer - MerciApp <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-typescript-50.png"/> </samp></h3>
+<h3 align="center"><samp> Full Stack Software Development Engineer - MerciApp <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-typescript-50.png"/> </samp></h3>
 
 <br>
 
 <div>
   
-As a full-stack JavaScript/TypeScript developer, my skill set encompasses both back-end and front-end development.
+Passionate about developing innovative solutions, I have currently been a Full Stack Software Development Engineer at MerciApp.
 
-In the realm of back-end development, I've cultivated expertise in utilizing cutting-edge tools such as Node.js, Express, Postman, Joi, and many others.
+### Technical Expertise ~
 
-On the front-end, React.js remains my preferred playground, where I excel. I am proficient in both functional and object-oriented programming paradigms, with a preference for the latter due to its ability to promote efficient component and code re-usability.
+- **Languages & Frameworks**: TypeScript, JavaScript, React.js, Redux.js, Node.js and more
+- **Database**: SQL, PostgreSQL, Mongo and more
+- **Artificial Intelligence**: Significant experience in AI and Retrieval-Augmented Generation (RAG)
+- **Methodologies**: Test Driven Development, Clean Code, Clean Architecture
 
-My approach to work is founded on the diligent application of AGILE/SCRUM methodology, coupled with an unwavering commitment to code quality. I am determined to produce clean and well-structured code, always emphasizing the product's adaptability.
+### Professional approche ~
 
-Furthermore, I strive to rigorously apply all the principles of the Clean Code throughout my work. My dedication to code quality is central to my priorities, aiming to ensure code readability, maintainability, and performance. This approach significantly contributes to the technical excellence of every project I contribute to.
+I strive to create robust and scalable solutions, applying the principles of Clean Code and Clean Architecture. My commitment to Test Driven Development ensures the reliability and maintainability of my projects.
+
+### Working environment ~
+
+Full remote, I thrive in an AGILE environment, encouraging collaboration and continuous innovation of our product.
+
+Always looking for new challenges, I'm constantly exploring the latest technological advances to create ever more powerful and intuitive applications.
 
 📫 How to reach me ~
 
