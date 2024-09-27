@@ -4,13 +4,13 @@
 
 <hr>
 
-<h3 align="center"><samp> Fullstack Developer - MerciApp <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-typescript-50.png"/> </samp></h3>
+<h3 align="center"><samp> Fullstack Developer <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-typescript-50.png"/> </samp></h3>
 
 <br>
 
 <div>
   
-Passionate about developing innovative solutions, I have currently been a Full Stack Developer at MerciApp.
+Passionate about developing innovative solutions, I have currently been a Full Stack Developer with over 3 years' proven experience to date.
 
 ### Technical Expertise ~
 
@@ -93,7 +93,7 @@ Always looking for new challenges, I'm constantly exploring the latest technolog
 <div>
 <h3><b><samp>Career ~</samp></b></h3>
 
-<p>[- Fullstack developer at MerciApp since August 2022. -]</p>
+<p>- Software development engineer at MerciApp [August 2022 - October 2024] -</p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.merci-app.com/">
