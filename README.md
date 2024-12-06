@@ -1,43 +1,40 @@
-# Hey Everyone! I'm [Romain Portanguen](https://github.com/Romain-Portanguen)
+# Hey Everyone! I'm [Romain Portanguen](https://github.com/Romain-Portanguen)  
 
-![](https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/header.png)
+![](https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/header.png)  
 
-<hr>
+<hr>  
 
-<h3 align="center"><samp> Fullstack Developer <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/images/icons8-typescript-50.png"/> </samp></h3>
+<h3 align="center"><samp> 🚀 Fullstack Software Engineer | Building Scalable & Smart Solutions </samp></h3>  
 
-<br>
+<br>  
 
-<div>
-  
-Passionate about developing innovative solutions, I have currently been a Full Stack Developer with over 3 years' proven experience to date.
+Welcome to my GitHub! I'm a **Fullstack Software Engineer** with over 3 years of experience developing innovative and scalable solutions that merge cutting-edge technology with user-centric design.  
 
-### Technical Expertise ~
+### **Technical Expertise** 🌟  
 
-- **Languages & Frameworks**: TypeScript, JavaScript, React.js, Redux.js, Node.js and more
-- **Database**: SQL, PostgreSQL, Mongo and more
-- **Artificial Intelligence**: Significant experience in AI and Retrieval-Augmented Generation (RAG)
-- **Methodologies**: Test Driven Development, Clean Code, Clean Architecture
+- **Languages & Frameworks:** TypeScript, React.js, Next.js, Nest.js, Node.js
+- **Databases:** SQL, PostgreSQL, MongoDB, PGVector and Pinecone  
+- **Artificial Intelligence:** GenAI, ML, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents  
+- **Development Methodologies:** Test-Driven Development (TDD), Clean Code, Clean Architecture  
 
-### Professional approche ~
+### **What Drives Me** 💡  
 
-I strive to create robust and scalable solutions, applying the principles of Clean Code and Clean Architecture. My commitment to Test Driven Development ensures the reliability and maintainability of my projects.
+I thrive on crafting robust, maintainable systems that simplify complexity. With a passion for exploring emerging technologies, I specialize in integrating **AI-driven features**, building **retrieval-optimized knowledge systems**, and architecting intuitive applications for real-world impact.  
 
-### Working environment ~
+### **How I Work** 🤝  
 
-Full remote, I thrive in an AGILE environment, encouraging collaboration and continuous innovation of our product.
+- **Remote-Friendly:** Fully adaptable to remote work environments with a strong focus on collaboration and communication.  
+- **Agile Development:** Excels in AGILE workflows, fostering teamwork and iterative improvements.  
+- **Continuous Innovation:** Always eager to tackle new challenges, leveraging the latest technological advancements to build smarter, more efficient solutions.  
 
-Always looking for new challenges, I'm constantly exploring the latest technological advances to create ever more powerful and intuitive applications.
+---
+
+Let’s connect and collaborate to build extraordinary projects that bridge technology and innovation! 💻✨  
 
 📫 How to reach me ~
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:portanguenr@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/romain-portanguen-a9b0771b7/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/DukeArtik)](https://twitter.com/https://twitter.com/DukeArtik)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?labelColor=2b343b&logo=Gitlab&color=2B343B)](https://gitlab.com/romain.portanguen)
-[![Github](https://img.shields.io/github/followers/Romain-Portanguen?label=Follow&style=social)](https://github.com/Romain-Portanguen)
-
-
 
 </div>
 
@@ -46,14 +43,28 @@ Always looking for new challenges, I'm constantly exploring the latest technolog
 <h3><b><samp>Skills | Languages ~</samp></b></h3>
 
 ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=plastic&logo=Typescript&color=2B343B)
-![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=plastic&logo=Javascript&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=plastic&logo=React&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Nextjs-05122A?style=plastic&logo=Nextjs&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Nestjs-05122A?style=plastic&logo=Nestjs&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Nodejs-05122A?style=plastic&logo=Nodejs&color=2B343B)
-![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=plastic&logo=PostgreSQL&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-yarn-05122A?style=plastic&logo=yarn&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-npm-05122A?style=plastic&logo=npm&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-pnpm-05122A?style=plastic&logo=pnpm&color=2B343B)
+
+<hr>
+
+<div>
+  
+<h3><b><samp>AI ~</samp></b></h3>
+  
+![Bootstrap](https://img.shields.io/badge/-OpenAI-05122A?style=plastic&logo=OpenAI&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Anthropic-05122A?style=plastic&logo=Anthropic&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-MistralAI-05122A?style=plastic&logo=MistralAI&color=2B343B)
+  
+</div>
 
 <hr>
 
@@ -69,6 +80,8 @@ Always looking for new challenges, I'm constantly exploring the latest technolog
 ![Bootstrap](https://img.shields.io/badge/-Webstorm-05122A?style=plastic&logo=Webstorm&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-VirtualBox-05122A?style=plastic&logo=VirtualBox&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=Docker&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-AWS-05122A?style=plastic&logo=AWS&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Cloudflare-05122A?style=plastic&logo=Cloudflare&color=2B343B)
   
 </div>
 
@@ -93,7 +106,9 @@ Always looking for new challenges, I'm constantly exploring the latest technolog
 <div>
 <h3><b><samp>Career ~</samp></b></h3>
 
-<p>- Software development engineer at MerciApp [August 2022 - October 2024] -</p>
+<p>
+Software Development Engineer - MerciApp [August 2022 - November 2024]
+</p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.merci-app.com/">
