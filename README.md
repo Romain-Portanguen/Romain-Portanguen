@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a **Fullstack Software Engineer** with over 3 years of
 - **Languages & Frameworks:** TypeScript, React.js, Next.js, Nest.js, Node.js
 - **Databases:** SQL, PostgreSQL, MongoDB, PGVector and Pinecone  
 - **Artificial Intelligence:** GenAI, ML, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents  
-- **Development Methodologies:** Test-Driven Development (TDD), Clean Code, Clean Architecture  
+- **Development Methodologies:** Test-Driven Development (TDD), Clean Code, Clean Architecture, Dependency injection 
 
 ### **What Drives Me** 💡  
 
