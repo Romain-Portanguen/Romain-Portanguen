@@ -1,10 +1,10 @@
 # Hey Everyone! I'm [Romain Portanguen](https://github.com/Romain-Portanguen)  
 
-![](https://github.com/Romain-Portanguen/Romain-Portanguen/blob/main/header.png)  
+![](https://github.com/Romain-Portanguen/Romain-Portanguen/blob/582645935b64ace3f7d286789e75d1a79cd37950/social-network-banner-wcr.png)
 
 <hr>  
 
-<h3 align="center"><samp> 🚀 Fullstack Software Engineer | Building Scalable & Smart Solutions </samp></h3>  
+<h3 align="center"><samp> 🚀 Building Scalable & Smart Solutions 🚀 </samp></h3>  
 
 <br>  
 
