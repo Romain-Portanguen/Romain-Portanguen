@@ -1,6 +1,6 @@
 # Hey Everyone! I'm [Romain Portanguen](https://github.com/Romain-Portanguen)  
 
-![](https://github.com/Romain-Portanguen/Romain-Portanguen/blob/582645935b64ace3f7d286789e75d1a79cd37950/social-network-banner-wcr.png)
+![](https://github.com/Romain-Portanguen/Romain-Portanguen/blob/0a9312e0f77dc1e02bfd6bb1a281020c7b54627c/social-network-banner-wcr-01.png)
 
 <hr>  
 
