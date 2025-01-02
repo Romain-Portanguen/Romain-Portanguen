@@ -49,6 +49,9 @@ Let’s connect and collaborate to build extraordinary projects that bridge tech
 ![Bootstrap](https://img.shields.io/badge/-Nestjs-05122A?style=plastic&logo=Nestjs&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-Nodejs-05122A?style=plastic&logo=Nodejs&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=plastic&logo=PostgreSQL&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=plastic&logo=MongoDB&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-PGVector-05122A?style=plastic&logo=PGVector&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Pinecone-05122A?style=plastic&logo=Pinecone&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-yarn-05122A?style=plastic&logo=yarn&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-npm-05122A?style=plastic&logo=npm&color=2B343B)
@@ -59,10 +62,12 @@ Let’s connect and collaborate to build extraordinary projects that bridge tech
 <div>
   
 <h3><b><samp>AI ~</samp></b></h3>
-  
-![Bootstrap](https://img.shields.io/badge/-OpenAI-05122A?style=plastic&logo=OpenAI&color=2B343B)
+
 ![Bootstrap](https://img.shields.io/badge/-Anthropic-05122A?style=plastic&logo=Anthropic&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-HuggingFace-05122A?style=plastic&logo=HuggingFace&color=2B343B)
 ![Bootstrap](https://img.shields.io/badge/-MistralAI-05122A?style=plastic&logo=MistralAI&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-OpenAI-05122A?style=plastic&logo=OpenAI&color=2B343B)
+![Bootstrap](https://img.shields.io/badge/-Ollama-05122A?style=plastic&logo=Ollama&color=2B343B)
   
 </div>
 
@@ -106,13 +111,25 @@ Let’s connect and collaborate to build extraordinary projects that bridge tech
 <div>
 <h3><b><samp>Career ~</samp></b></h3>
 
+<!------------------------------------------------------------------------------------
 <p>
-Software Development Engineer - MerciApp [August 2022 - November 2024]
+AI Software Engineer - YeldaAI | <strong>Station F - Paris</strong> [From January 2025]
+</p>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://yelda.fr/">
+    <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/b522828e745d24bdd2669f811b752ad85319b7fd/images/yelda_logo.jpeg" alt="YeldaAI" width="150px" height="150px" style="border-radius: 50;" />
+  </a>
+</div>
+------------------------------------------------------------------------------------->
+
+<p>
+Software Development Engineer - MerciApp | <strong>Paris</strong> [From August 2022 To November 2024]
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.merci-app.com/">
-    <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/0ffb2c1a9fed4d1d7987d360b37588dc25fe1654/images/merci_app_logo.png" alt="MerciApp" width="150px" height="150px" style="border-radius: 50%;" />
+    <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/0ffb2c1a9fed4d1d7987d360b37588dc25fe1654/images/merci_app_logo.png" alt="MerciApp" width="150px" height="150px" style="border-radius: 50;" />
   </a>
 </div>
 
