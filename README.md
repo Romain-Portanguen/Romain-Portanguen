@@ -111,9 +111,8 @@ Let’s connect and collaborate to build extraordinary projects that bridge tech
 <div>
 <h3><b><samp>Career ~</samp></b></h3>
 
-<!------------------------------------------------------------------------------------
 <p>
-AI Software Engineer - YeldaAI | <strong>Station F - Paris</strong> [From January 2025]
+AI Engineer - YeldaAI | <strong>Station F - Paris</strong> [From January 2025]
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -121,10 +120,9 @@ AI Software Engineer - YeldaAI | <strong>Station F - Paris</strong> [From Januar
     <img src="https://github.com/Romain-Portanguen/Romain-Portanguen/blob/b522828e745d24bdd2669f811b752ad85319b7fd/images/yelda_logo.jpeg" alt="YeldaAI" width="150px" height="150px" style="border-radius: 50;" />
   </a>
 </div>
-------------------------------------------------------------------------------------->
 
 <p>
-Software Development Engineer - MerciApp | <strong>Paris</strong> [From August 2022 To November 2024]
+Fullstack Software Engineer - MerciApp | <strong>Paris</strong> [From August 2022 To November 2024]
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
