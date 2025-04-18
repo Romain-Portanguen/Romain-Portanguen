@@ -8,24 +8,31 @@
 
 <br>  
 
-Welcome to my GitHub! I'm a **Fullstack Software Engineer** with over 3 years of experience developing innovative and scalable solutions that merge cutting-edge technology with user-centric design.  
+As a software engineer specializing in **artificial intelligence**, I operate at the intersection of **Machine Learning**, **Natural Language Processing (NLP)**, and **advanced software engineering** to build high-performance, reliable, and production-ready systems.<br> I deliver robust and scalable solutions by integrating state-of-the-art technologies such as **LLMs**, **RAG**, **Generative AI**, and **autonomous agents**... into modern, distributed architectures.<br>
 
-### **Technical Expertise** 🌟  
+My approach combines strong engineering principles with a deep product mindset: I develop intelligent features with a focus on code quality (**TDD**, **Clean Architecture**, **Domain-Driven Design**) and system performance. From distributed backend development to seamless AI model integration, I cover the full technical spectrum while keeping user experience and business impact at the core.
 
-- **Languages & Frameworks:** TypeScript, Python, React.js, Next.js, Nest.js, Node.js
-- **Databases:** SQL, PostgreSQL, MongoDB, PGVector and Pinecone  
-- **Artificial Intelligence:** GenAI, ML, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents  
-- **Development Methodologies:** Test-Driven Development (TDD), Clean Code, Clean Architecture, Dependency injection 
+Versatile and driven, I thrive in high-expectation environments where innovation is grounded in real-world value.<br> My goal: to design intelligent, dependable, and meaningful systems that push the boundaries of what AI can bring to products.
 
-### **What Drives Me** 💡  
+**Technical Expertise 🌟**
 
-I thrive on crafting robust, maintainable systems that simplify complexity. With a passion for exploring emerging technologies, I specialize in integrating **AI-driven features**, building **retrieval-optimized knowledge systems**, and architecting intuitive applications for real-world impact.  
+- **Languages & Frameworks**: TypeScript, Python, React.js, Next.js, Nest.js, Node.js
+- **Databases**: SQL, PostgreSQL, MongoDB...
+- **Artificial Intelligence**: GenAI, ML, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents...
+- **Machine Learning & NLP**: PyTorch, TensorFlow, Scikit-learn, spaCy, NLTK...
+- **Vector Stores & Embeddings**: Chroma, Weaviate, OpenAI Embeddings, Cohere Embeddings, FAISS...
+- **AI Development**: Prompt Engineering, Fine-tuning, Knowledge Graphs...
+- **Development Methodologies**: Test-Driven Development (TDD), Clean Code, Clean Architecture, Dependency injection...
 
-### **How I Work** 🤝  
+**What Drives Me 💡**
 
-- **Remote-Friendly:** Fully adaptable to remote work environments with a strong focus on collaboration and communication.  
-- **Agile Development:** Excels in AGILE workflows, fostering teamwork and iterative improvements.  
-- **Continuous Innovation:** Always eager to tackle new challenges, leveraging the latest technological advancements to build smarter, more efficient solutions.  
+I thrive on crafting robust, maintainable systems that simplify complexity. With a passion for exploring emerging technologies, I specialize in integrating AI-driven features, building retrieval-optimized knowledge systems, and architecting intuitive applications for real-world impact.
+
+**How I Work 🤝**
+
+Remote-Friendly: Fully adaptable to remote work environments with a strong focus on collaboration and communication.
+Agile Development: Excels in AGILE workflows, fostering teamwork and iterative improvements.
+Continuous Innovation: Always eager to tackle new challenges, leveraging the latest technological advancements to build smarter, more efficient solutions.
 
 ---
 
